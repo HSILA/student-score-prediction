@@ -1,2 +1,5 @@
 data
 venv
+*.hdf5
+*.ckpt
+best_model
