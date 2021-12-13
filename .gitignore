@@ -3,3 +3,4 @@ venv
 *.hdf5
 *.ckpt
 best_model
+*__pycache__
